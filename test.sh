@@ -1,2 +1,2 @@
 #!/bin/bash
-python test.py
+python test.py 6 7
